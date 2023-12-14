@@ -22,7 +22,7 @@ Join us in our journey to reshape the internet and bring your ideas to life!
     - That being said, this group would not have been possible without the immense support and camaraderie in that community.
   
 2. We recieve direct support from external providers including:
-    - Tritium Cyber Defence (Australian Group not acting as a business or for profit)
+    - [Tritium Cyber Defence](https://www.tritiumcyberdefence.com/) (Australian Group not acting as a business or for profit)
     - Support as dev time, hardware, server hosting and security testing.
 3. All repositories are now and forever open source and free to use. However:
    - Our free to use model may include standard payments such as *gas fees on the Ethereum blockchain*.
